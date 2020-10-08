@@ -1,0 +1,23 @@
+name: LePlugin
+version: 1
+author: Tim-Luca Lagmöller
+main: de.lagmoellertim.leplugin.Main
+api-version: 1.16
+
+commands:
+  create-world:
+    description: Create World
+  delete-world:
+    description: Delete World
+  goto-world:
+    description: Goto World
+  tpw:
+    description: Teleport to World
+  join:
+    description: Join
+  start:
+    description: Start
+  leave:
+    description: Leave
+  r:
+    description: Reload
